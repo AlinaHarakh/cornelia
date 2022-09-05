@@ -975,7 +975,8 @@ body {
 }
 @media (max-width: 640px) {
 	.header__inner {
-		height: 80px;
+    padding: 10px 0 0;
+    height: 65px;
 	}
 	.header__content {
 		gap: 20px;
@@ -1160,11 +1161,4 @@ body {
 	.magic {
     padding: 100px 0 100px;
 	}
-}
-@media (max-width: 700px) {
-	
-}
-@media (max-width: 600px) {
-}
-@media (max-width: 530px) {
 }

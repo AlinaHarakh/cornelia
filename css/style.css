@@ -992,8 +992,9 @@ body {
 	.home__title::after {
     height: 199px;
     right: 0;
-    transform: translate(0, 28px);
-	} 
+		transform: translate(-49px, -57px);
+    /* transform: translate(0, 28px); */
+	
 }
 @media (max-width: 640px) {
 	.header__inner {
@@ -1182,4 +1183,5 @@ body {
     padding: 100px 0 100px;
 	}
 }
+
 
